@@ -246,6 +246,7 @@ hr {
     display: flex;
     justify-content: space-between;
     flex-wrap: wrap;
+    margin-right: 90px;
 }
 
 .noticias h2 {
@@ -451,20 +452,16 @@ hr {
 .btn_cadastrar {
     width: 129px;
     height: 44px;
-
     margin-top: 20px;
-
     background-color: #001F70;
-
     font-family: 'Roboto', sans-serif;
     font-weight: bold;
     font-size: 1.6rem;
     line-height: 1.9rem;
-    text-transform: uppercase;
-    
+    text-transform: uppercase;    
     color: white;
-
     border: none;
+    border-radius: 10px;
 }
 
 .btn_cadastrar:hover {
